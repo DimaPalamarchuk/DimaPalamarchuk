@@ -3,10 +3,9 @@
 Latest project
 
 ### Languages and Tools
-![Framework](https://img.shields.io/badge/.NET Framework/Core-5C2D91?style=for-the-badge&logo=appveyor)
-![ASP](https://img.shields.io/badge/ASP.NET/ASP.NET Core-701C2A?style=for-the-badge&logo=appveyor)
-![WPF](https://img.shields.io/badge/WPF-2E7D32?style=for-the-badge&logo=appveyor)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=appveyor)
-![WebApi](https://img.shields.io/badge/WebApi-FF5722?style=for-the-badge&logo=appveyor)
+![.NET](https://img.shields.io/badge/-Frameword-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=68217A)
+![WebApi](https://img.shields.io/badge/WebApi-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 Follow Me
