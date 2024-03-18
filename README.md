@@ -1,4 +1,4 @@
-About me
+## I am a beginner programmer in the field of C#/.NET
 
 Latest project
 
