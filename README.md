@@ -9,4 +9,8 @@ Latest project
 ![WebApi](https://img.shields.io/badge/WebApi-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
-Follow Me
+### Follow Me
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100016850641898)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NeatPalma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dmytro-palamarchuk-838815289/)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1C9DEB)](https://twitter.com/NeatPalma)
